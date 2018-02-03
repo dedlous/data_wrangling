@@ -1,0 +1,97 @@
+             Survived  Pclass  \
+PassengerId                     
+1                   0       3   
+2                   1       1   
+3                   1       3   
+4                   1       1   
+5                   0       3   
+
+                                                          Name     Sex   Age  \
+PassengerId                                                                    
+1                                      Braund, Mr. Owen Harris    male  22.0   
+2            Cumings, Mrs. John Bradley (Florence Briggs Th...  female  38.0   
+3                                       Heikkinen, Miss. Laina  female  26.0   
+4                 Futrelle, Mrs. Jacques Heath (Lily May Peel)  female  35.0   
+5                                     Allen, Mr. William Henry    male  35.0   
+
+             SibSp  Parch            Ticket     Fare Cabin Embarked  
+PassengerId                                                          
+1                1      0         A/5 21171   7.2500   NaN        S  
+2                1      0          PC 17599  71.2833   C85        C  
+3                0      0  STON/O2. 3101282   7.9250   NaN        S  
+4                1      0            113803  53.1000  C123        S  
+5                0      0            373450   8.0500   NaN        S  
+             Survived  Pclass                                       Name  \
+PassengerId                                                                
+34                  0       2                      Wheadon, Mr. Edward H   
+55                  0       1             Ostby, Mr. Engelhart Cornelius   
+97                  0       1                  Goldschmidt, Mr. George B   
+117                 0       3                       Connors, Mr. Patrick   
+171                 0       1                  Van der hoef, Mr. Wyckoff   
+253                 0       1                  Stead, Mr. William Thomas   
+276                 1       1          Andrews, Miss. Kornelia Theodosia   
+281                 0       3                           Duane, Mr. Frank   
+327                 0       3                  Nysveen, Mr. Johan Hansen   
+439                 0       1                          Fortune, Mr. Mark   
+457                 0       1                  Millet, Mr. Francis Davis   
+484                 1       3                     Turkula, Mrs. (Hedwig)   
+494                 0       1                    Artagaveytia, Mr. Ramon   
+546                 0       1               Nicholson, Mr. Arthur Ernest   
+556                 0       1                         Wright, Mr. George   
+571                 1       2                         Harris, Mr. George   
+626                 0       1                      Sutton, Mr. Frederick   
+631                 1       1       Barkworth, Mr. Algernon Henry Wilson   
+673                 0       2                Mitchell, Mr. Henry Michael   
+746                 0       1               Crosby, Capt. Edward Gifford   
+830                 1       1  Stone, Mrs. George Nelson (Martha Evelyn)   
+852                 0       3                        Svensson, Mr. Johan   
+
+                Sex   Age  SibSp  Parch       Ticket      Fare        Cabin  \
+PassengerId                                                                   
+34             male  66.0      0      0   C.A. 24579   10.5000          NaN   
+55             male  65.0      0      1       113509   61.9792          B30   
+97             male  71.0      0      0     PC 17754   34.6542           A5   
+117            male  70.5      0      0       370369    7.7500          NaN   
+171            male  61.0      0      0       111240   33.5000          B19   
+253            male  62.0      0      0       113514   26.5500          C87   
+276          female  63.0      1      0        13502   77.9583           D7   
+281            male  65.0      0      0       336439    7.7500          NaN   
+327            male  61.0      0      0       345364    6.2375          NaN   
+439            male  64.0      1      4        19950  263.0000  C23 C25 C27   
+457            male  65.0      0      0        13509   26.5500          E38   
+484          female  63.0      0      0         4134    9.5875          NaN   
+494            male  71.0      0      0     PC 17609   49.5042          NaN   
+546            male  64.0      0      0          693   26.0000          NaN   
+556            male  62.0      0      0       113807   26.5500          NaN   
+571            male  62.0      0      0  S.W./PP 752   10.5000          NaN   
+626            male  61.0      0      0        36963   32.3208          D50   
+631            male  80.0      0      0        27042   30.0000          A23   
+673            male  70.0      0      0   C.A. 24580   10.5000          NaN   
+746            male  70.0      1      1    WE/P 5735   71.0000          B22   
+830          female  62.0      0      0       113572   80.0000          B28   
+852            male  74.0      0      0       347060    7.7750          NaN   
+
+            Embarked  
+PassengerId           
+34                 S  
+55                 C  
+97                 C  
+117                Q  
+171                S  
+253                S  
+276                S  
+281                Q  
+327                S  
+439                S  
+457                S  
+484                S  
+494                C  
+546                S  
+556                S  
+571                S  
+626                S  
+631                S  
+673                S  
+746                S  
+830              NaN  
+852                S  
